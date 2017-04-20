@@ -1,0 +1,30 @@
+EXERCÍCIOS COM MATRIZ
+
+1. Desenvolver um programa para armazenar as notas de 5 alunos com 4 notas cada um.
+Ao término da digitação das notas, informar as médias de cada aluno e a maior média.
+
+2. Preencher todos os valores de uma matriz 2x2 , em seguida exibir todos os valores e a
+soma de todos os valores.
+
+3. Leia um vetor bidimensional 3 x 3 e em seguida encontre a posição do elemento m
+(dado pelo usuário) na matriz. Caso o elemento não exista na matriz, informe o
+usuário.
+
+4. Os proprietários de um teatro necessitam de uma ferramenta de software para
+reservas de lugares. O desenvolvedor contratado verificou que as poltronas
+disponíveis para reservas são referenciados pelo número da fila e pelo número da
+cadeira em cada fila, em uma representação matricial em que as linhas e colunas
+correspondem, respectivamente, às filas e às colunas de cadeiras. Implemente um
+programa em C que realize as "reservas" de lugares, (informando a fila e a cadeira)
+com o código do cliente e, caso a cadeira já tenha sido reservada, exibir uma
+mensagem ao usuário e solicitar nova posição. As cadeiras vazias levam o valor zero.
+Considerar que tenham 5 filas e 10 cadeiras por fila.
+
+5. Leia uma matriz 10 x 10 e escreva a localização (linha e a coluna) do maior valor.
+
+6. Crie duas matrizes 3x3. Preencha uma das matrizes com dados aleatórios entre 1 e 50
+(rand), em seguida copiar os valores desta matriz para a segunda, porém de trás para
+frente.
+
+7. Crie um programa que recebe uma matriz bidimensional inteira 5x5 e um inteiro que
+indica uma de suas linhas, e retorna a média dos valores daquela linh
